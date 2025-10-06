@@ -36,3 +36,4 @@ Fazer deploy no GitHub Pages
 
 Melhorar o design com CSS avançado
 
+### Todos os projetos podem sofrer algumas alterações futuramente
