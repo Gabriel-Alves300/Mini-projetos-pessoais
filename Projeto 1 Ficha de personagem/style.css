@@ -1,0 +1,32 @@
+body{background-image: url(https://i.pinimg.com/originals/cb/d8/3b/cbd83b1902a2ef325a23f754e4887397.jpg)}
+
+.fundo{background-color: black;
+width: 80%;
+margin-left: auto;
+margin-right: auto;}
+
+h1,h2,h3,p{color: white;
+font-family: Comic Sans MS, cursive;}
+
+img{width: 125px;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;}
+
+h1, h2{text-align: center}
+
+.imagem1{width: 220px;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;}
+
+a:visited{color: cyan}
+
+a:hover{color: grey}
+
+a:active{color: grey}
+
+p{text-indent: 30px;
+text-align: justify}
