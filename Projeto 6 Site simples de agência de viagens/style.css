@@ -13,7 +13,7 @@ body{
 .fotos img{
   object-fit: cover;
   max-width: 100%;
-  width: 100%;
+  width: 400px;
   border: 1px solid black;
 }
 
@@ -36,12 +36,13 @@ figcaption{
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 iframe{
-  display: inline-block;
-  max-width: 600px;
+  display: block;
+  max-width: 500px;
   border: 1px solid black;
 }
 
@@ -50,7 +51,9 @@ iframe{
 }
 
 h3{
-  display: inline-block
+  display: flex;
+  align-items: center;
+  
 }
 
 h1, h2, h3{
@@ -78,5 +81,5 @@ input[type="submit"]{
   font-size: 17px;
   font-family: 'Fredoka', sans-serif;
   border: solid 1px black;
-  
+  display: block;
 }
