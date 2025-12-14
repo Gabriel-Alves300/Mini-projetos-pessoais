@@ -16,4 +16,4 @@ Este repositório contém uma coleção de projetos pessoais desenvolvidos como 
 - CSS3
 
 ## Como Visualizar
-Para visualizar cada projeto, navegue até o diretório correspondente e abra o arquivo `index.html` em um navegador.
+Para visualizar cada projeto, navegue até o diretório correspondente e abra o arquivo `index.html` em um navegador ou acesse o link https://codepen.io/your-work.
