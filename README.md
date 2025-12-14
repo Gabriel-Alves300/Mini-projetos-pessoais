@@ -8,6 +8,8 @@ Este repositório contém uma coleção de projetos pessoais desenvolvidos como 
 - **Projeto 3: Registro Simples de um Site** - Um formulário básico para registro em um site.
 - **Projeto 4: Bandeira da França** - Uma representação estilizada da bandeira da França.
 - **Projeto 5: Comidas para Pets** - Uma página com imagens de algumas comidas para pets.
+- **Projeto 6: Site de agência de viagem - Uma página simples mostrando um ponto turístico.
+- **Projeto 7: Página de notícias - Uma página com algumas notícias do mundo dos jogos.
 
 ## Tecnologias Utilizadas
 - HTML5
